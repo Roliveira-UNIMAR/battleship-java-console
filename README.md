@@ -19,7 +19,7 @@
 
 ## ¿Como jugar?
 
-  Fácil solo ejecuta `javac ` y listo
+  Fácil solo ejecuta `javac Main.java` y diviertete.
 
 ---
 ## Estructura de carpetas
