@@ -1,0 +1,6 @@
+# Ignora archivos del sistema Mac
+.DS_store
+
+# Ignora los archivos relacionados a API keys
+lib
+test
